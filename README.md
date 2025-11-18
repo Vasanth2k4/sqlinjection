@@ -1,8 +1,6 @@
 # sqlinjection
 Exploiting SQL Injection vulnerability
-## NAME: PRAVEEN CK
-## REGISTER NO: 212222243003
-## DEPARTMENT: INFORMATION TECHNOLOGY
+
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
